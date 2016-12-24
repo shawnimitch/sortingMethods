@@ -4,12 +4,10 @@ import java.util.Random;
 
 /*********************************************************************
  * Author: A-Shawni Mitchell                                         *
- * Assignment: Lab5                                                  *
- * Instructor: Julio Urenda                                          *
- * TA: Debakar Shamanta                                              *
+ * Assignment: Sorting Methods                                       *                           
  * Date of Last Modification: 7/11/16                                *
  * Purpose: Get familar with various sorting methods in java         *
- *          and their runtimes                                       *
+ *          and their run times                                       *
  *********************************************************************/
 
 public class Lab5Summer16{
